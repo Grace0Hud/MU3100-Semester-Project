@@ -1,0 +1,23 @@
+[
+c a g e f g# a g (* printing out C *)
+c d f (* change source root to f *)
+f d c a b& g f# g c (* print e *)
+f d c a b& g f# f# c (* print d *)
+f d c a b& e d c (* print a *)
+f d c a b& g g b& c (* print r *)
+f g c
+c a g e f e e& g (* printing out SPACE *)
+c d f (* change source root to f *)
+f d c a b& d d c (* print M *)
+f d c a b& e& b c (* print U *)
+f d c a b& b g c (* print 3 *)
+f d c a b& b& e c (* print 1 *)
+f d c a b& b& e& c  (* print 0 *)
+f d c a b& b& e& c  (* print 0 *)
+f g c
+c a g e f e e& g (* printing out SPACE *)
+c a& f d (* declare f *)
+c e& f e g c# g (* f = 0 *)
+c a g e d f (* print f to screen *)
+c e e e d f d f e g d c# g(* start while f < 10 *)
+]
