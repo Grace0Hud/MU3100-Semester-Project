@@ -35,7 +35,7 @@
     \relative f,
     {
       f d c a bes8 bes8 ees4 c
-      f d c a bes8 bes8 ees,4 c
+      f d c a bes8 bes8 ees4 c
       f' g'2 c'2\fermata
     }
     \relative c {
@@ -45,7 +45,7 @@
       c a g e d' f'4 \break
     }
     \relative c'{
-      c4\< e e8 e8 d4 f d f e g d cis2 g1\fermata \!
+      c4 e e8 e8 d4 f \< d f e g d cis2 g1\fermata \!
     }
   }
     \layout {
