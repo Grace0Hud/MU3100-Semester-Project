@@ -36,7 +36,7 @@
     {
       f d c a bes8 bes8 ees4 c
       f d c a bes8 bes8 ees4 c
-      f' g'2 c'2\fermata
+      f' g'2 c2\fermata
     }
     \relative c {
       r2 \break c2 a4 g e f e8 ees8 g4
