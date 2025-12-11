@@ -28,15 +28,15 @@
       c d f16  }
     \relative f{ 
       f d8 c a bes \break d2 d2 c8
-      f d c a bes ees b c16
+      f d c a bes ees b c
       f d4 c8 a bes b g c 
-      f d4 c a \break bes8 bes8 e4 c 
+      f d c4 a \break bes8 bes8 e4 c
     }
     \relative f,
     {
+      f r4 d c a bes8 bes8 ees4 c
       f d c a bes8 bes8 ees4 c
-      f d c a bes8 bes8 ees4 c
-      f' g'2 c2\fermata
+      f' g c2\fermata
     }
     \relative c {
       r2 \break c2 a4 g e f e8 ees8 g4
